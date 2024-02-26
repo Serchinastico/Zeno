@@ -1,0 +1,10 @@
+{
+  "printWidth": 120,
+  "tabWidth": 4,
+  "bracketSameLine": true,
+  "trailingComma": "es5",
+  "importOrder": ["^@zeno/(.*)$", "^[./]"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "plugins": ["prettier-plugin-organize-imports"]
+}
